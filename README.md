@@ -12,7 +12,7 @@ There are 3 text files which contains Byte's access adress in memory.
 
 The simulator will also consider the Number of bytes and the block size.
 
-For example: cache.exe 1024 F 32 trace1.txt
+For example: 'cache.exe 1024 F 32 trace1.txt'
 Will execute the simulator with the parameters: 
 Number of bytes: 1024
 Assosiativity: Fully assosiative

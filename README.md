@@ -4,9 +4,9 @@ Cache simulator to evaluate Performance and miss rates implemented in C.
 
 This Simulator will calculate the miss rate of 3 different cache assosiativities.
 
-1 - Way  (1)
-2 - Way  (2)
-Fully assosiative  (F)
+1-Way  (1)   
+2-Way  (2)   
+Fully assosiative  (F)   
 
 There are 3 text files which contains Byte's access adress in memory.
 
